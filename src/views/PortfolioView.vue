@@ -16,7 +16,7 @@ export default {
         {
           id: 1,
           name: 'Sertifikat Pengusaha Muda',
-          imageUrl: 'Putih-Biru-Abu-Modern-Minimalis-Sertifikat-Penghargaan-20240331-094958-0000',
+          imageUrl: '/PGMxBLJ/Putih-Biru-Abu-Modern-Minimalis-Sertifikat-Penghargaan-20240331-094958-0000',
           status: '2024.',
           tech: 'Pengusaha Muda',
           github: 'null',
@@ -74,7 +74,7 @@ export default {
                 class="item-card flex flex-col items-center gap-2 rounded bg-[#1e1e1f] hover:bg-[#282828] border border-[#383838] rounded-xl text-amber-50 md:gap-3 px-5 py-5 lg:px-5 ">
                 <div class="flex h-12 w-12 items-center justify-center p-0 h-full w-full lg:p-0 zoom-in">
                   <img alt="HTML" loading="lazy" decoding="async" data-nimg="1" class="drop-shadow-xl rounded rounded-xl"
-                    :src="'https://i.ibb.co/PGMxBLJ/' + item.imageUrl + '.png'>
+                    :src="'https://i.ibb.co' + item.imageUrl + '.png'>
                   
                 </div>
                 <div class="w-full flex flex-col gap-2 items-center text-sm md:text-base lg:text-lg">
