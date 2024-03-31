@@ -16,7 +16,7 @@ export default {
         {
           id: 1,
           name: 'Sertifikat Pengusaha Muda',
-          imageUrl: 'Putih Biru Abu Modern Minimalis Sertifikat Penghargaan _20240331_094958_0000',
+          imageUrl: 'https://i.ibb.co/PGMxBLJ/Putih-Biru-Abu-Modern-Minimalis-Sertifikat-Penghargaan-20240331-094958-0000.png',
           status: '2024.',
           tech: 'Pengusaha Muda',
           github: 'null',
