@@ -15,13 +15,13 @@ export default {
       //  },
         {
           id: 1,
-          name: 'Sahabat Muslim',
-          imageUrl: 'sahabatmuslim',
-          status: 'A website that has a responsive display to make it easier for Muslims to read the Quran from anywhere.',
-          tech: 'VueJS 3, Tailwind',
-          github: 'https://github.com/rakha-elctrnx/muslim-companion',
-          demo: 'https://sahabat-muslim.netlify.app/'
-        },
+          name: 'Sertifikat Pengusaha Muda',
+          imageUrl: 'Putih Biru Abu Modern Minimalis Sertifikat Penghargaan _20240331_094958_0000',
+          status: '2024.',
+          tech: 'Pengusaha Muda',
+          github: 'null',
+          demo: 'null'
+        },/*
         {
           id: 2,
           name: 'SISTEKDES',
@@ -48,7 +48,7 @@ export default {
           tech: 'Codeigniter 3, Bootstrap',
           github: 'null',
           demo: 'null'
-        }
+        }*/
       ]
     };
   }
